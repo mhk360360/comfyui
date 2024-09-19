@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# This file will be sourced in init.sh
+# This file will be sourced in init.sh 999
 
 # https://raw.githubusercontent.com/ai-dock/comfyui/main/config/provisioning/default.sh
 
