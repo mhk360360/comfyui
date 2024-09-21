@@ -27,8 +27,16 @@ CHECKPOINT_MODELS=(
     "https://huggingface.co/runwayml/stable-diffusion-v1-5/resolve/main/v1-5-pruned-emaonly.ckpt"
     "https://huggingface.co/stabilityai/stable-diffusion-xl-refiner-1.0/resolve/main/sd_xl_refiner_1.0.safetensors"
     "https://civitai.com/api/download/models/290640?type=Model&format=SafeTensor&size=pruned&fp=fp16"
-    #Pony Rea
-    "https://civitai.com/api/download/models/534642?type=Model&format=SafeTensor&size=full&fp=fp16" 
+    #Pony Realism
+    "https://civitai.com/api/download/models/534642?type=Model&format=SafeTensor&size=full&fp=fp16"
+    "https://civitai.com/api/download/models/290640?type=Model&format=SafeTensor&size=pruned&fp=fp16"
+    "https://civitai.com/api/download/models/782002?type=Model&format=SafeTensor&size=full&fp=fp16"
+    "https://civitai.com/api/download/models/534642?type=Model&format=SafeTensor&size=full&fp=fp16"
+    "https://civitai.com/api/download/models/429454?type=Model&format=SafeTensor&size=pruned&fp=fp16"
+    "https://civitai.com/api/download/models/143906?type=Model&format=SafeTensor&size=pruned&fp=fp16"
+    "https://civitai.com/api/download/models/290640?type=Model&format=SafeTensor&size=pruned&fp=fp16"
+    
+    
     
 )
 
